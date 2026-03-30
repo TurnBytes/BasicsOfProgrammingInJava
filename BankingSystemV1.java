@@ -21,14 +21,14 @@ public class BankingSystemV1 {
 
             System.out.println("Please Enter Limit: ");
             account.limit  = scanner.nextInt();
-                        
+            
             if(account.bankBalance[0]>account.limit){
                 float zakat = (account.deductionRate/100)*account.bankBalance[i];
                 System.out.println(account.bankBalance[0]-zakat);
             }else{
                 System.out.println("Da kas looser di");
             }
-    
+            
             System.out.println("Account Balance: "+ account.bankBalance[i] + " Limit: " + account.limit + " Deduction Rate: " + account.deductionRate);
         }
         
