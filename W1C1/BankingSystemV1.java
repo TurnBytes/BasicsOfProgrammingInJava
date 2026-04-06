@@ -1,3 +1,4 @@
+package W1C1;
 import java.util.Scanner;
 public class BankingSystemV1 {
     
@@ -10,7 +11,7 @@ public class BankingSystemV1 {
 
     public static void main(String[] args) {
         
-
+    
         BankingSystemV1 account = new BankingSystemV1();
         Scanner scanner = new Scanner(System.in);
 

@@ -1,3 +1,4 @@
+package W1C1;
 import java.util.Scanner;
 
 public class BankingSystem {

@@ -1,2 +1,8 @@
 ## Next Class: Demonstrate difference between Array and ArrayList e.g. give size of array for example 3 and loop for 5 times to throw index error
 ## Then Demonstrate ArrayList to address this issues, but before this demonstrate Exception Handling
+## Also demonstrate Boolean datatypes;
+
+
+## Week 5 | Class 1
+
+1. Static | super keywords 
