@@ -1,5 +1,5 @@
 import java.util.Scanner;
-//Basics
+//Basic re-iterated
 class InnerDemoFirst {
 
     int marks;
